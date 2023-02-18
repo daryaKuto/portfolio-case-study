@@ -1,2 +1,2 @@
 # portfolio-case-study
-portfolio website make 100% using ChatGPT
+portfolio website made 100% using ChatGPT
